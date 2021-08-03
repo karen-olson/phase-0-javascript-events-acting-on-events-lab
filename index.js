@@ -30,3 +30,6 @@ document.addEventListener("keydown", function(e) {
         moveDodgerRight();
     }
 });
+
+name = "max";
+name;
